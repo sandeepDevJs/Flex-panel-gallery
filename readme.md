@@ -1,5 +1,4 @@
-# Flex Box Panel With JS
-
+# Flex Box (CSS) Panel With JS
 ## Day 5 Of 30 days of JS
 
 **built using vanilla JS
